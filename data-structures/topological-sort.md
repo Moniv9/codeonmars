@@ -1,8 +1,6 @@
 # Topological Sort
 
 Topological sorting in a directed graph is linear ordering of the vertices, such that for every directed edge from **u** to **v**, vertex **u** will come before vertex **v**.  
-
-
   
 **Applications**  
   
@@ -11,13 +9,13 @@ Topological sorting in a directed graph is linear ordering of the vertices, such
 
 > **Topological sort will only work on directed acyclic graphs.**
 
-
-
 **Algorithm**  
-  
-****1. Pick one vertex, mark it visited and look for its adjacent vertices.  
-2. Push just found adjacent vertex into the main stack, and then look for its adjacent vertices  \( DFS of graph \).  
-3. Once no more adjacent vertex is found for the current vertex, pop it out from the main stack and push it into another stack \(result stack\).  
+1. Pick one vertex, mark it visited and look for its adjacent vertices. 
+
+2. Push just found adjacent vertex into the main stack. 
+
+3. Once no more adjacent vertex is found for the current vertex, pop it out from the main stack and push it into another stack \(result stack\). 
+
 4. Now, pick other vertex which is not visited yet and repeat steps 1, 2 and 3.  
   
 **Consider this example**  
