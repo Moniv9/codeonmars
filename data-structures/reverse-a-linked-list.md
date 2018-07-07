@@ -1,4 +1,4 @@
-# Reverse a linked list
+# Reverse a Linked List
 
 ```javascript
 class Node {
