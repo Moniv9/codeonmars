@@ -2,7 +2,7 @@
 
 DFS involves following a path from **source vertex** to **adjacent vertex** until there are no other vertex left to visit.
 
-#### Objective
+#### Steps
 
 * Start with source vertex, push it into stack, mark it visited and display it.
 * Now peek the stack and look for adjacent vertices.
