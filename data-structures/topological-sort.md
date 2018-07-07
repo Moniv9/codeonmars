@@ -7,7 +7,9 @@ Topological sorting in a directed graph is linear ordering of the vertices, such
 ****1. Executing task based on dependency, like our build system.  
 2. Scheduling tasks which are dependent.
 
-> **Topological sort will only work on directed acyclic graphs.**
+{% hint style="info" %}
+ Topological sort will only work on directed acyclic graphs.
+{% endhint %}
 
 **Algorithm**
 
@@ -34,7 +36,9 @@ These are 6 pairs, where integer u,v represents edge from u to v. Topological or
 
 
 
-> **Remember, there can be multiple topological sort order of a graph.**
+{% hint style="info" %}
+Remember, there can be multiple topological sort order of a graph.
+{% endhint %}
 
 ![](../.gitbook/assets/screen-shot-2018-01-07-at-10.08.26-pm.png)
 
