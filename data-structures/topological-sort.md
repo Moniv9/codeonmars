@@ -9,7 +9,8 @@ Topological sorting in a directed graph is linear ordering of the vertices, such
 
 > **Topological sort will only work on directed acyclic graphs.**
 
-**Algorithm**  
+**Algorithm**
+
 1. Pick one vertex, mark it visited and look for its adjacent vertices. 
 
 2. Push just found adjacent vertex into the main stack. 
