@@ -9,7 +9,7 @@
 * [Max Heap](data-structures/max-heap.md)
 * [Min Heap](data-structures/min-heap.md)
 * [Reverse a Linked List](data-structures/reverse-a-linked-list.md)
-* [Create Binary Tree](data-structures/create-binary-tree.md)
+* [Create a Binary Tree](data-structures/create-binary-tree.md)
 
 ## RxJs
 
