@@ -17,7 +17,7 @@
 
 ## Algorithms
 
-* [Untitled](algorithms/untitled.md)
+* [Find number of islands](algorithms/untitled.md)
 
 ## Javascript
 
