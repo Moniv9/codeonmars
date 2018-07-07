@@ -8,6 +8,7 @@
 
 * [Max Heap](data-structures/max-heap.md)
 * [Min Heap](data-structures/min-heap.md)
+* [Reverse a linked list](data-structures/reverse-a-linked-list.md)
 
 ## RxJs
 
