@@ -10,6 +10,14 @@
 * [Min Heap](data-structures/min-heap.md)
 * [Reverse a Linked List](data-structures/reverse-a-linked-list.md)
 * [Create a Binary Tree](data-structures/create-binary-tree.md)
+* [Topological Sort](data-structures/topological-sort.md)
+* [DFS of Graph](data-structures/dfs-of-graph.md)
 
 ## RxJs
+
+## Algorithms
+
+* [Untitled](algorithms/untitled.md)
+
+## Javascript
 
