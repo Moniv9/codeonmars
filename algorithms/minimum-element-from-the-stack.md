@@ -6,8 +6,6 @@ description: >-
 
 # Minimum Element From The Stack
 
-#### Approach
-
 {% hint style="info" %}
 We take 2 stacks. One as **main stack** for inserting new element and another as **min stack** for keeping track of the min element.
 {% endhint %}
