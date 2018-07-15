@@ -12,6 +12,7 @@
 * [Create a Binary Tree](data-structures/create-binary-tree.md)
 * [Topological Sort](data-structures/topological-sort.md)
 * [DFS of Graph](data-structures/dfs-of-graph.md)
+* [Trie](data-structures/trie.md)
 
 ## RxJs
 
