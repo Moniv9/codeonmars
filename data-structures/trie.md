@@ -6,7 +6,7 @@ A **trie** is a tree like data structure whose nodes store the letters of an alp
 
 
 
-**Inserting node into Trie**
+**Inserting a node into the given trie**
 
 ```javascript
 class Node {
@@ -43,7 +43,7 @@ class Trie {
 
 
 
-**Check if search term is available in given trie**
+**Check if the search term is available in the given trie**
 
 ```javascript
 class Node {
