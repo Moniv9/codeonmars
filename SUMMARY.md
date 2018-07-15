@@ -19,7 +19,7 @@
 ## Algorithms
 
 * [Find number of islands](algorithms/untitled.md)
-* [Minimum Element From The Stack](algorithms/minimum-element-from-the-stack.md)
+* [Min Stack](algorithms/minimum-element-from-the-stack.md)
 * [Longest Common Substring](algorithms/longest-common-substring.md)
 
 ## Javascript
