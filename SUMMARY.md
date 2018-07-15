@@ -14,6 +14,7 @@
 * [Reverse a Linked List](data-structures/reverse-a-linked-list.md)
 * [Create a Binary Tree](data-structures/create-binary-tree.md)
 * [Reverse Doubly Linked List](data-structures/reverse-doubly-linked-list.md)
+* [Doubly Linked List](data-structures/doubly-linked-list.md)
 
 ## RxJs
 
